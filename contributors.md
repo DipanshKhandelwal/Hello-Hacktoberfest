@@ -232,3 +232,8 @@
 - Place: Mumbai
 - Bio: Undergraduate Student at the University of Madras
 - Github: [Sofiya Khan](https://github.com/ksofiya)
+
+#### Name: [Medha Gupta](https://github.com/medhagupta098)
+- Place: Delhi, India
+- Bio: Informatiion Technology Student
+- GitHub: [medhagupta098](https://github.com/medhagupta098)
