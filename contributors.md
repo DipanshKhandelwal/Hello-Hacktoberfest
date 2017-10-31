@@ -119,3 +119,7 @@
 - Bio: iMtech ECE student
 - Github: [jujusudhur](https://github.com/jujusudhur)
 
+#### Name: [Tajmeet Kaur](https://github.com/batman-13)
+-Place:New Delhi, India
+-Bio:Architect
+-Github:[batman-13](https://github.com/batman-13)
