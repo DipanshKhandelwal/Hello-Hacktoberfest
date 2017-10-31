@@ -33,6 +33,11 @@
 - Bio: Software developer
 - GitHub: [Arjun](https://github.com/15bcs021)
 
+#### Name: [Hardik](https://github.com/haragg2)
+- Place: Chandigarh,India
+- Bio: Roboticist
+- GitHub: [haragg2](https://github.com/haragg2)
+
 #### Name: [yogeshAgarwal](https://github.com/yogeshAgarwal)
 - Place: Ringus, Rajasthan, India
 - Bio: Software developer
@@ -127,6 +132,11 @@
 - Place: Bangalore, India
 - Bio: iMtech ECE student
 - Github: [jujusudhur](https://github.com/jujusudhur)
+
+#### Name: [Tajmeet Kaur](https://github.com/batman-13)
+- Place:New Delhi, India
+- Bio:Architect
+- Github:[batman-13](https://github.com/batman-13)
 
 #### Name: [Carlos Carvalho](https://github.com/chcdc)
 - Place: Paraná, Brazil
@@ -237,3 +247,8 @@
 - Place: Delhi, India
 - Bio: Informatiion Technology Student
 - GitHub: [medhagupta098](https://github.com/medhagupta098)
+
+#### Name: [Kevin Koester](https://github.com/koester)
+ - Place: Cologne, Germany
+ - Bio: FSD
+ - GitHub: [koester](https://github.com/koester)
