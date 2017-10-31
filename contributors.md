@@ -33,6 +33,11 @@
 - Bio: Software developer
 - GitHub: [Arjun](https://github.com/15bcs021)
 
+#### Name: [Hardik](https://github.com/haragg2)
+- Place: Chandigarh,India
+- Bio: Roboticist
+- GitHub: [haragg2](https://github.com/haragg2)
+
 #### Name: [yogeshAgarwal](https://github.com/yogeshAgarwal)
 - Place: Ringus, Rajasthan, India
 - Bio: Software developer
