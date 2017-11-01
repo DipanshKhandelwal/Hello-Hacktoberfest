@@ -88,6 +88,11 @@
 - Bio: Software Developer
 - GitHub: [ZeroBlazer](https://github.com/ZeroBlazer)
 
+#### Name: [Caleb Fleming](https://github.com/calebfleming)
+- Place: Virginia, USA
+- Bio: Data Scientist
+- GitHub: [calebfleming](https://github.com/calebfleming)
+
 #### Name: [Githuber](https://github.com/foreverGithub)
 - Place: texas, USA
 - Bio: Software Engineer
@@ -257,3 +262,23 @@
  - Place: New York, New York
  - Bio: Computer Engineer
  - GitHub: [soaresb](https://github.com/soaresb)
+
+#### Name: [Michael Dilla](https://github.com/dillam)
+ - Place: Meadville, Pennsylvania, USA
+ - Bio: Student
+ - Github: [dillam](https://github.com/dillam)
+
+#### Name: [Ian Shorrock](https://github.com/shorrock)
+- Place: Longmont, Colorado, United States
+- Bio: Web application developer
+- GitHub: [shorrock](https://github.com/shorrock)
+
+#### Name: [Cam Barts](https://github.com/TheKingOfShade)
+ - Place: Southern California
+ - Bio: Transition out of military
+ - GitHub: [TheKingOfShade](https://github.com/TheKingOfShade)
+ 
+ #### Name: [elstruck](https://github.com/elstruck)
+ - Place: Tennessee, USA
+ - Bio: Music Teacher
+ - GitHub: [elstruck](https://github.com/elstruck)
