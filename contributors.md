@@ -258,6 +258,11 @@
  - Bio: FSD
  - GitHub: [koester](https://github.com/koester)
 
+#### Name: [Michael Dilla](https://github.com/dillam)
+ - Place: Meadville, Pennsylvania, USA
+ - Bio: Student
+ - Github: [dillam](https://github.com/dillam)
+
 #### Name: [Ian Shorrock](https://github.com/shorrock)
 - Place: Longmont, Colorado, United States
 - Bio: Web application developer
