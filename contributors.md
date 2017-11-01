@@ -252,3 +252,8 @@
  - Place: Cologne, Germany
  - Bio: FSD
  - GitHub: [koester](https://github.com/koester)
+
+#### Name: [Ian Shorrock](https://github.com/shorrock)
+- Place: Longmont, Colorado, United States
+- Bio: Web application developer
+- GitHub: [shorrock](https://github.com/shorrock)
