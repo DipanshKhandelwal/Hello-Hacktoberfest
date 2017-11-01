@@ -252,3 +252,7 @@
  - Place: Cologne, Germany
  - Bio: FSD
  - GitHub: [koester](https://github.com/koester)
+#### Name: [Cam Barts](https://github.com/TheKingOfShade)
+ - Place: Southern California
+ - Bio: Transition out of military
+ - GitHub: [TheKingOfShade](https://github.com/TheKingOfShade)
