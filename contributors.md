@@ -257,3 +257,8 @@
  - Place: Cologne, Germany
  - Bio: FSD
  - GitHub: [koester](https://github.com/koester)
+ 
+ #### Name: [elstruck](https://github.com/elstruck)
+ - Place: Tennessee, USA
+ - Bio: Music Teacher
+ - GitHub: [elstruck](https://github.com/elstruck)
