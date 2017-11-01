@@ -1,3 +1,13 @@
+#### Name: [João Guazzelli](https://github.com/joaoguazzelli)
+- Place: são paulo, Brazil
+- Bio: mecatronic student
+- GitHub: [joaoguazzelli](https://github.com/joaoguazzelli)
+
+#### Name: [Kumar Rohit Chandra](https://github.com/krrohitch)
+- Place : Noida, UP, India
+- Bio: Designer/Developer
+- Github: [krrohitch](https://github.com/krrohitch)
+
 #### Name: [Akshat Sinha](https://github.com/akshatgit)
 - Place: New Delhi, Delhi, India
 - Bio: DevOps engineer
@@ -22,6 +32,11 @@
 - Place: Birmingham, West Midlands, United Kingdom
 - Bio: Software developer
 - GitHub: [Arjun](https://github.com/15bcs021)
+
+#### Name: [Hardik](https://github.com/haragg2)
+- Place: Chandigarh,India
+- Bio: Roboticist
+- GitHub: [haragg2](https://github.com/haragg2)
 
 #### Name: [yogeshAgarwal](https://github.com/yogeshAgarwal)
 - Place: Ringus, Rajasthan, India
@@ -108,9 +123,8 @@
 - Bio: MTech CSE student
 - GitHub: [zetol](https://github.com/zetol)
 
-
 #### Name: [SpiderMan](https://github.com/SpiderManAvanger)
-- Place: India
+- Place: Mumbai,India
 - Bio: Computer Engineer Department
 - GitHub: [Spidey](https://github.com/SpiderManAvanger)
 
@@ -124,5 +138,122 @@
 - Bio: iMtech ECE student
 - Github: [jujusudhur](https://github.com/jujusudhur)
 
+#### Name: [Tajmeet Kaur](https://github.com/batman-13)
+- Place:New Delhi, India
+- Bio:Architect
+- Github:[batman-13](https://github.com/batman-13)
 
+#### Name: [Carlos Carvalho](https://github.com/chcdc)
+- Place: Paraná, Brazil
+- Bio: DevOps
+- Github: [chcdc](https://github.com/chcdc)
 
+#### Name: [Vishesh Ruparelia](https://github.com/visheshruparelia)
+- Place: Bangalore,India
+- Bio: CSE
+- GitHub: [visheshruparelia](https://github.com/visheshruparelia)
+
+#### Name: [Pranav Vardia](https://github.com/pranavvardia)
+- Place: Bangalore, Karnataka, India
+- Bio: Computer Science student
+- GitHub: [pranavvardia](https://github.com/pranavvardia)
+
+#### Name: [Matt Schlenker](https://github.com/m4ttsch)
+- Place: New York, NY, USA
+- Bio: Software Developer in NYC
+- GitHub: [m4ttsch](https://github.com/m4ttsch)
+
+#### Name: [Raman Maurya](https://github.com/rmaurya757)
+- Place: Lucknow, India
+- Bio: UIET IT student
+- Github: [rmaurya757](https://github.com/rmaurya757)
+
+#### Name: [Sullivan Nolan](https://github.com/nolakat)
+- Place: Pittsburgh, PA, USA
+- Bio: Digital Designer
+- GitHub: [nolakat](https://github.com/nolakat)
+
+#### Name: [David Pate](https://github.com/DavidTPate)
+- Place: Florida, USA
+- Bio: I have the best Bio
+- Github: [DavidTPate](https://github.com/DavidTPate)
+
+#### Name: [Nodcah](https://github.com/nodcah)
+- Place: Storrs, CT, USA
+- Bio: UConn CSE Student
+- Github: [Nodcah](https://github.com/nodcah)
+
+#### Name: [Akshay Sharma](https://github.com/akshaysharma2277)
+- Place: Jaipur, Rajasthan, India
+- Bio: I am a CSE student.
+- GitHub: [akshaysharma2277](https://github.com/akshaysharma2277)
+
+#### Name: [Felix](https://github.com/felunaix)
+- Place: Aspach, Baden-Württemberg, Germany
+- Bio: Informatik Student
+- GitHub: [felunaix](https://github.com/felunaix)
+
+#### Name: [Leron Culbreath](https://github.com/LeronCulbreath)
+- Place: Virginia, US
+- Bio: A little bit of everything
+- Github: [LeronCulbreath](https://github.com/LeronCulbreath)
+
+#### Name: [ThamiduNaveen](https://github.com/ThamiduNaveen)
+- Place: Kuliyapitiya, Kurunegala, Sri Lanka
+- Bio: Software engineer
+- GitHub: [ThamiduNaveen](https://github.com/ThamiduNaveen)
+
+#### Name: [JatinRajani](https://github.com/jatinrajani)
+- Place: NewDelhi,India
+- Bio: MachineLearner
+- GitHub: [JatinRajani](https://github.com/jatinrajani)
+
+#### Name: [Blueskyes](https://github.com/Blueskyes)
+- Place: Texas, USA
+- Bio: Student
+- Github: [Blueskyes](https://github.com/Blueskyes)
+
+#### Name: [Saket Komawar](https://github.com/Saket-Komawar)
+- Place: Pune, Maharashtra, India
+- Bio: Informatiion Technology Student
+- GitHub: [Saket-Komawar](https://github.com/Saket-Komawar)
+
+#### Name: [Sthitadhi Mutsuddy](www.github.com/nighthawk1210)
+- Place: Siliguri, West Bengal, India
+- Bio: I am a 14 yr old student
+- GitHub: [@Nighthawk1210](www.github.com/nighthawk1210)
+
+#### Name: [Rishabh Verma](https://github.com/rv0001)
+- Place: Noida,Uttar Pradesh, India
+- Bio: Informatiion Technology Student
+- GitHub: [rv0001](https://github.com/rv0001)
+
+#### Name: [Rajat Gupta](https://github.com/Rajat2712)
+- Place: Delhi, India
+- Bio: Informatiion Technology Student
+- GitHub: [Rajat2712](https://github.com/Rajat2712)
+
+#### Name: [Ewerton Queiroz](https://github.com/EwertonQueiroz)
+- Place: Recife, Pernambuco, Brazil
+- Bio: Undergraduate student
+- GitHub: [EwertonQueiroz](https://github.com/EwertonQueiroz)
+
+#### Name: [Frank Garcia](https://github.com/FrankGarcia305)
+- Place: Gainesville, Florida
+- Bio: Undergraduate Student at the University of Florida
+- Github: [FrankGarcia305](https://github.com/FrankGarcia305)
+
+#### Name: [Sofiya Khan](https://github.com/ksofiya)
+- Place: Mumbai
+- Bio: Undergraduate Student at the University of Madras
+- Github: [Sofiya Khan](https://github.com/ksofiya)
+
+#### Name: [Medha Gupta](https://github.com/medhagupta098)
+- Place: Delhi, India
+- Bio: Informatiion Technology Student
+- GitHub: [medhagupta098](https://github.com/medhagupta098)
+
+#### Name: [Kevin Koester](https://github.com/koester)
+ - Place: Cologne, Germany
+ - Bio: FSD
+ - GitHub: [koester](https://github.com/koester)
