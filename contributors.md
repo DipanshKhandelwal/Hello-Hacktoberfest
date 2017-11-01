@@ -258,6 +258,11 @@
  - Bio: FSD
  - GitHub: [koester](https://github.com/koester)
 
+#### Name: [Ian Shorrock](https://github.com/shorrock)
+- Place: Longmont, Colorado, United States
+- Bio: Web application developer
+- GitHub: [shorrock](https://github.com/shorrock)
+
 #### Name: [Cam Barts](https://github.com/TheKingOfShade)
  - Place: Southern California
  - Bio: Transition out of military
