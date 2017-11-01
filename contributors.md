@@ -88,6 +88,11 @@
 - Bio: Software Developer
 - GitHub: [ZeroBlazer](https://github.com/ZeroBlazer)
 
+#### Name: [Caleb Fleming](https://github.com/calebfleming)
+- Place: Virginia, USA
+- Bio: Data Scientist
+- GitHub: [calebfleming](https://github.com/calebfleming)
+
 #### Name: [Githuber](https://github.com/foreverGithub)
 - Place: texas, USA
 - Bio: Software Engineer
@@ -252,7 +257,13 @@
  - Place: Cologne, Germany
  - Bio: FSD
  - GitHub: [koester](https://github.com/koester)
+
 #### Name: [Cam Barts](https://github.com/TheKingOfShade)
  - Place: Southern California
  - Bio: Transition out of military
  - GitHub: [TheKingOfShade](https://github.com/TheKingOfShade)
+ 
+ #### Name: [elstruck](https://github.com/elstruck)
+ - Place: Tennessee, USA
+ - Bio: Music Teacher
+ - GitHub: [elstruck](https://github.com/elstruck)
