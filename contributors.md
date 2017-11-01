@@ -252,3 +252,8 @@
  - Place: Cologne, Germany
  - Bio: FSD
  - GitHub: [koester](https://github.com/koester)
+
+#### Name: [Brian Soares](https://github.com/soaresb)
+ - Place: New York, New York
+ - Bio: Computer Engineer
+ - GitHub: [soaresb](https://github.com/soaresb)
